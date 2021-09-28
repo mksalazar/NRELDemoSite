@@ -1,7 +1,9 @@
 .title {
     text-align:center;
     font-family: 'Courier New', Courier, monospace;
-    margin-bottom: 60px;
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-color: #dee2e6;
 }
 
 .sub-titles {
@@ -13,4 +15,5 @@
 
 .container {
     text-align: center;
+    margin-top: 60px;
 }
